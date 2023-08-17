@@ -1,0 +1,18 @@
+{
+  "name": "node_v14_21_2-express-handlebars_v6.0.6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "=6.0.6",
+    "express-session": "^1.17.3",
+    "nodemon": "^3.0.1",
+    "saml2-js": "^4.0.2"
+  }
+}

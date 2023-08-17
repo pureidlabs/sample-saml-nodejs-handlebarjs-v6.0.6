@@ -1,0 +1,9 @@
+<h1>Hello World from Handlebars</h1>
+
+{{#if authUser}}
+<h1>{{ authUser }}</h1>
+<a href="/auth/logout">Logout</a>
+
+{{else}}
+<a href="/auth/login">Login with PureAUTH</a>
+{{/if}}
